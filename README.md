@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome to my page!
+
+### About me
+
+Just a silly lil guy that makes things I think lol xd
 
 <!--
 **Nightyboyo/Nightyboyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
